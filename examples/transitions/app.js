@@ -31,7 +31,7 @@ const Parent = {
         <router-view class="child-view"></router-view>
       </transition>
     </div>
-  `
+  ` 
 }
 
 const Default = { template: '<div class="default">default</div>' }
